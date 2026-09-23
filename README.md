@@ -34,7 +34,7 @@ The architecture is built on a highly modular, agentic framework:
 
 ## 📊 Real-Time Equipment Telemetry
 
-![Active Telemetry Dashboard](telemetry-dashboard.png)
+![Active Telemetry Dashboard](assets/telemetry-dashboard.png)
 
 The MineOps-Copilot integrates a live telemetry monitoring module specifically configured for the Komatsu HD785-5 fleet. This interface captures and visualizes continuous operational data streams, tracking critical mechanical metrics including payload capacity, engine and transmission fluid temperatures, brake line pressure, and drivetrain vibrations.
 
