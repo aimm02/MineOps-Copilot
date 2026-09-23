@@ -1,0 +1,14 @@
+# Environment & API Keys
+.env
+.venv/
+__pycache__/
+
+# Vector Database & Data
+data/chroma_db/
+*.sqlite
+*.db
+
+# Sembunyikan direktori kode sumber lain jika diperlukan
+src/ingestion.py
+src/tools/
+eval/
